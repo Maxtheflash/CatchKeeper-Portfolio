@@ -110,8 +110,6 @@ Continued development is focused on expanding these analytics into increasingly 
 
 CatchKeeper follows an ASP.NET Core MVC architecture with Entity Framework Core providing relational data access and ASP.NET Core Identity providing authentication and account functionality.
 
-Additional architecture documentation will be available in the `docs` directory.
-
 ## Application Screenshots
 
 ### Dashboard Overview
@@ -143,7 +141,6 @@ Anglers can maintain a personal history of their catches with species, measureme
 Quick Log provides a streamlined workflow for recording catches while minimizing the amount of time required for data entry.
 
 ![CatchKeeper Quick Log](screenshots/quick-log.png)
-
 
 ## Development Roadmap
 
