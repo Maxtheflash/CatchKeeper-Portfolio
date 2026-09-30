@@ -112,9 +112,38 @@ CatchKeeper follows an ASP.NET Core MVC architecture with Entity Framework Core 
 
 Additional architecture documentation will be available in the `docs` directory.
 
-## Screenshots
+## Application Screenshots
 
-Application screenshots will be added to the `screenshots` directory as the current interface is documented.
+### Dashboard Overview
+
+The CatchKeeper dashboard provides an at-a-glance view of an angler's fishing activity, including catch statistics, personal records, and fishing insights.
+
+![CatchKeeper Dashboard](screenshots/dashboard-overview.png)
+
+### Fishing Analytics
+
+CatchKeeper uses historical fishing data to surface patterns and statistics, helping anglers understand their fishing activity and identify productive trends over time.
+
+![CatchKeeper Analytics](screenshots/dashboard-analytics.png)
+
+### Fishing Trips
+
+Fishing trips can be recorded separately from individual catches, allowing anglers to track water bodies, dates, conditions, locations, and catches associated with each trip.
+
+![CatchKeeper Fishing Trips](screenshots/fishing-trips.png)
+
+### Catch History
+
+Anglers can maintain a personal history of their catches with species, measurements, bait, technique, conditions, locations, photos, and other supporting information.
+
+![CatchKeeper Catch History](screenshots/catch-history.png)
+
+### Quick Log
+
+Quick Log provides a streamlined workflow for recording catches while minimizing the amount of time required for data entry.
+
+![CatchKeeper Quick Log](screenshots/quick-log.png)
+
 
 ## Development Roadmap
 
